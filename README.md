@@ -13,7 +13,7 @@ Game Over Detection: Detect collision with the snake's body or game window bound
 
 Clone the repository to your local machine.
 Navigate to the project directory.
-Run the snake_game.py file using Python.
+Run the snake.py file using Python.
 Use arrow keys to control the snake's movement.
 Eat food to grow the snake and increase your score.
 Avoid colliding with the snake's body or the game window boundaries.
